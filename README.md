@@ -7,7 +7,7 @@ In this, I'm demonstrating how to build a **responsive modern Login Page** using
 
 Below is a preview of the login page:
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
 
 ---
 
